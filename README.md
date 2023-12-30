@@ -1,1 +1,1 @@
-This E-commerce webiste build it with angular
+This E-commerce website build it with angular
